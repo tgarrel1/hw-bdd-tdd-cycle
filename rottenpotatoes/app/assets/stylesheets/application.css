@@ -62,3 +62,7 @@ form label {
   font-weight: bold;
   color: maroon;
 }
+div.highlight {
+    background-color: yellow;
+    width: -moz-fit-content;
+}
